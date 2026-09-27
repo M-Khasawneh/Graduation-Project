@@ -592,13 +592,7 @@ hotfix/xxx        # Critical fixes
 
 ---
 
-## 📞 **Support & Contact**
 
-<div align="center">
-📞 00962772372187 (WhatsApp)
-</div>
-
----
 
 ## 📄 **License**
 
